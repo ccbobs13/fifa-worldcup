@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgraphqlapi_dashboard"]=self["webpackChunkgraphqlapi_dashboard"]||[]).push([[750],{7750:function(a,n,s){s.r(n),s.d(n,{default:function(){return i}});var t=function(){var a=this;a._self._c;return a._m(0)},u=[function(){var a=this,n=a._self._c;return n("div",{staticClass:"about"},[n("h1",[a._v("This is an about page")])])}],r=s(1001),l={},e=(0,r.Z)(l,t,u,!1,null,null,null),i=e.exports}}]);
+//# sourceMappingURL=750.0eec88b7.js.map
